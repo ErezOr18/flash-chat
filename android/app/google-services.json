@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198355828287",
+    "project_id": "flashchat2-5c73b",
+    "storage_bucket": "flashchat2-5c73b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198355828287:android:677c2a2a2bfaead0f5828a",
+        "android_client_info": {
+          "package_name": "erezor.flash_chat_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198355828287-qqspmop0pugor6sn1qrp3g7j4q834bfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FJlvCH5JneBifHrvXt5e6_VKgbmm9Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198355828287-qqspmop0pugor6sn1qrp3g7j4q834bfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
